@@ -1,0 +1,17 @@
+{
+  "name": "boiling-pressure",
+  "version": "1.0.0",
+  "description": "用于减压蒸馏时计算沸点压力的小工具。参考文献 Tetrahedron Letters 41 (2000) 9879-9882，原goodman小组编写的Java Applet化学计算工具在现代浏览器中存在兼容性问题无法使用，故用deepseek重新编写了代码，直接下载两个文件即可使用。",
+  "main": "chart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/ying-zhongh/boiling-pressure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
